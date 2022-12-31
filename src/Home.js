@@ -35,7 +35,7 @@ function Home() {
         <div className="container">
           <div className="home__content">
             <div className="home__meta">
-              <h3 className="home__text pz__10">I’m Faizan ul hassan </h3>
+              <h3 className="home__text pz__10">I’m Faizan ul hassan mehdi </h3>
               <br />
               <h1 className="home__text pz__10">MERN Stack Developer</h1>
             </div>
