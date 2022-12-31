@@ -5,16 +5,15 @@ function Service() {
   return (
     <div className="service component__space" id="Services">
 
-      <div className="heading">
-        <h1 className="heading">Skills & Expertise</h1>
-      </div>
+        <h3 className="home__text pz__10">Skills & Expertise</h3>
+        <br/>
 
       <div className="container">
         <div className="row">
           <div className="col__3">
             <div className="service__box pointer">
               <div className="service__meta">
-                <h1 className="service__text">Jr. Python developer</h1>
+                <h1 className="home__text pz__10">Jr. Python Developer</h1>
                 <p className="p service__text p__color">
                   Numpy, Pandas, OpenCV, <br/>Pytorch
                 </p>
@@ -25,7 +24,7 @@ function Service() {
           <div className="col__3">
             <div className="service__box pointer">
               <div className="service__meta">
-                <h1 className="service__text">Front end developer</h1>
+              <h1 className="home__text pz__10">Front End Developer</h1>
                 <p className="p service__text p__color">
                   React, PHP, JavaScript, HTML, <br/> CSS, Bootstrap
                 </p>
@@ -36,7 +35,7 @@ function Service() {
           <div className="col__3">
             <div className="service__box pointer">
               <div className="service__meta">
-                <h1 className="service__text">Graphic Designing</h1>
+              <h1 className="home__text pz__10">Graphic Designing</h1>
                 <p className="p service__text p__color">
                   Adobe illustrator, InDesign, <br/> Photoshop, Canva
                 </p>

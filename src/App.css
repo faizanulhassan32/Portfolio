@@ -105,13 +105,8 @@ svg {
 .absolute{
   position: absolute;
 }
-strong{
-  color: #F9004D;
-  font-weight: 600;
-}
-input{
-  color: rgba(198,201,216,.75);
-}
+
+
 button.btn {
   font-size: 18px;
   font-weight: 500;
@@ -172,39 +167,37 @@ span.copyright {
   background-size: cover;
 }
 li.nav__items{
-  font-size: 18px;
-  padding-bottom: 15px;
+  font-size: 20px;
+  padding-bottom: 10px;
 }
 .home__content{
   padding: 125px 0px;
 }
 h1.home__text{
-  font-size: 24px;
-  font-weight: 400;
+  font-size: 19px;
+  font-weight: 300;
   text-align: center;
-  letter-spacing: 3px;
-  color: #fff!important;
+  line-height: 54px;
+  letter-spacing: 2px;
+  font-family: Montserrat,sans-serif;
 }
 h2.home__text{
-  font-size: 54px;
+  font-size: 25px;
+  font-weight: 300;
+  text-align: center;
   line-height: 54px;
-  font-weight: 800;
+  letter-spacing: 2px;
   font-family: Montserrat,sans-serif;
 }
 h3.home__text{
-  font-size: 50px;
-  font-weight: 800;
+  font-size: 40px;
+  font-weight: 300;
   text-align: center;
+  line-height: 54px;
+  letter-spacing: 2px;
   font-family: Montserrat,sans-serif;
-  line-height: 40px;
 }
-h4.home__text{
-  font-size: 50px;
-  font-weight: 800;
-  line-height: 40px;
-  font-family: Montserrat,sans-serif;
-  
-}
+
 .header{
   transition: 0.5s all ease;
 }
@@ -215,28 +208,7 @@ h4.home__text{
   padding: 0px 30px;
   background-color: #191919;
 }
-.toggle__menu {
-  display: flex;
-  justify-content: flex-end;
-  float: right;
-  z-index: 1000;
-  width: 100%;
-}
 
-ul.sidebar.d__flex {
-  flex-wrap: wrap;
-  height: 100%;
-  position: fixed;
-  right: 0%;
-  background: #010101;
-  justify-content: center;
-  width: 300px;
-  top: 0%;
-  flex-direction: column;
-}
-li.sideNavbar{
-  padding: 25px 30px;
-}
 /* RESPONSIVE */
 @media only screen and (max-width: 768px){
 .header{
@@ -276,13 +248,7 @@ img.about__img{
   border-radius: 10px;
   width: 100%;
 }
-h1.about__heading{
-  margin-bottom: 10px;
-  font-weight: 700;
-  text-align: center;
-  font-family: Montserrat,sans-serif;
-  font-size: 60px;
-}
+
 button.about.btn.pointer {
   text-transform: capitalize;
   width: 195px;
@@ -292,17 +258,7 @@ button.about.btn.pointer {
   background-color: #191919;
   border-color: #191919;
 }
-.about__text{
-  text-align: center;
-  font-size: 20px;
-  font-weight: 400;
-  text-align: center;
-  letter-spacing: 3px;
-  color: #fff!important;
-}
-.about__button{
-  padding: 20px 0px;
-}
+
 a.bottom__to__top{
   height: 40px;
   width: 40px;
@@ -338,18 +294,6 @@ button.about.btn.pointer {
 }
 
 /* services css here */
-h1.heading {
-  font-size: 60px;
-  text-align: center;
-  font-family: Poppins,sans-serif;
-  font-weight: 700;
-  margin-bottom: 10px;
-}
-p.heading.p__color {
-  margin-bottom: 0;
-  text-align: center;
-  line-height: 1.2;
-}
 .service__box {
   border-radius: 10px;
   width: 100%;
@@ -369,53 +313,21 @@ p.heading.p__color {
   color: #fff!important;
 }
 
-.icon {
-  font-size: 54px;
-  font-weight: 400;
-  margin-bottom: 23px;
-  display: inline-flex;
-  color: #f9004d;
-}
 p.service__text.p__color {
   margin-bottom: 0;
-}
-h1.service__text {
-  font-size: 19px;
+  font-size: 20px;
   font-family: Poppins,sans-serif;
   padding: 10px 0px;
 }
+
 /* RESPONSIVE */
 @media only screen and (max-width: 1024px){
-.service__box {
-  padding: 32px;
-}
+  .service__box {
+    padding: 32px;
+  }
 }
 
 /* contact css here */
 .contact{
   background-color: #000000;
-}
-h1.hire__text {
-  font-size: 60px;
-  text-align: center;
-}
-
-.contact__img{
-  border-radius: 10px;
-  width: 100%;
-  overflow: hidden;
-}
-textarea#message{
-  height: 120px;
-  background: none;
-  padding: 0 20px;
-  width: 100%;
-  line-height: 46px;
-  color: #fff;
-  font-size: 15px;
-  letter-spacing: .1px;
-  border: 2px solid hsla(0,0%,100%,.2);
-}
-button.btn.contact.pointer {
-  margin: 20px 0px;
 }

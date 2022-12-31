@@ -16,9 +16,9 @@ function About() {
             <img src={aboutImg} alt="" className="about__img" />
           </div>
           <div className="col__1">
-            <h1 className="about__heading">About Me </h1>
+            <h3 className="home__text pz__10">About Me </h3>
             <div className="about__meta">
-              <h2 className="about__text p__color">
+              <h1 className="home__text pz__10">
               <br />
                 It's Faizan here, currently a senior student of BSCS in FAST-NUCES.
                 I've been pursuing my degree for over 3 years with vast experience 
@@ -29,7 +29,7 @@ function About() {
                 platforms such as Fiverr and upwork for over 2 years in the field of web 
                 development and graphic designing along with other smaller projects.
                 Looking forward to learn new skills, expand my knowledge, leverage my learnings and make the best of my potential.
-              </h2>
+              </h1>
 
             {/* <div className="container"> */}
             <div className="row">
@@ -37,7 +37,7 @@ function About() {
                 <div className="service__box pointer">
                   <div className="service__meta">
                     <a href= {CV} download>
-                      <button className="about btn pointer">Download CV</button>
+                      <button className="about btn pointer ">Download CV</button>
                     </a>
                   </div>
                 </div>
