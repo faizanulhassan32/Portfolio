@@ -7,7 +7,7 @@ function Contact() {
                 <div className="col__1">
                             <h3 className="home__text pz__10">Contact Me</h3>
                             <br />
-                            <h1 className="home__text pz__10"> +(92) 340 5233659 </h1>
+                            <h1 className="home__text pz__10"> +(92) 340-5233659 </h1>
                             <h1 className="home__text pz__10"> faizanulhassan043@gmail.com </h1> <br/>
                 </div>
             </div>
