@@ -1,6 +1,6 @@
 import React from "react";
 import "./App.css";
-import CV from './Resume.pdf'
+import CV from './resume.pdf'
 import aboutImg from "./img/simone-secci-49uySSA678U-unsplash.jpg";
 function About() {
   //  Up To Top Btn
