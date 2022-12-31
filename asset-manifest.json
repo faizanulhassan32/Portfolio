@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.f837526c.css",
-    "main.js": "/Portfolio/static/js/main.2331c2f4.js",
+    "main.css": "/Portfolio/static/css/main.d8b3b305.css",
+    "main.js": "/Portfolio/static/js/main.587b9243.js",
     "static/media/adrien-olichon-RCAhiGJsUUE-unsplash.jpg": "/Portfolio/static/media/adrien-olichon-RCAhiGJsUUE-unsplash.b89b1d552971531a84d7.jpg",
     "static/media/simone-secci-49uySSA678U-unsplash.jpg": "/Portfolio/static/media/simone-secci-49uySSA678U-unsplash.6e9eda92909281e74d77.jpg",
     "static/media/CV Resume.pdf": "/Portfolio/static/media/CV Resume.11b782075410caad0447.pdf",
     "index.html": "/Portfolio/index.html",
-    "main.f837526c.css.map": "/Portfolio/static/css/main.f837526c.css.map",
-    "main.2331c2f4.js.map": "/Portfolio/static/js/main.2331c2f4.js.map"
+    "main.d8b3b305.css.map": "/Portfolio/static/css/main.d8b3b305.css.map",
+    "main.587b9243.js.map": "/Portfolio/static/js/main.587b9243.js.map"
   },
   "entrypoints": [
-    "static/css/main.f837526c.css",
-    "static/js/main.2331c2f4.js"
+    "static/css/main.d8b3b305.css",
+    "static/js/main.587b9243.js"
   ]
 }
