@@ -20,7 +20,7 @@ function About() {
             <div className="about__meta">
               <h2 className="about__text p__color">
               <br />
-                It's Faizan ul hassan here, currently a senior student of BSCS in FAST-NUCES.
+                It's Faizan here, currently a senior student of BSCS in FAST-NUCES.
                 I've been pursuing my degree for over 3 years with vast experience 
                 in multiple programming languages including C/C++, Java, Python and 
                 javascript. Aiming towards professional web development, i am trying 
