@@ -39,6 +39,9 @@ function About() {
                     <a href= {CV} download>
                       <button className="about btn pointer ">Download CV</button>
                     </a>
+                    <a href= 'https://danyalfaheem.github.io/'>
+                      <button className="about btn pointer ">Website</button>
+                    </a>
                   </div>
                 </div>
               </div>
