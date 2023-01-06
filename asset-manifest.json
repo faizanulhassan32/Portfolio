@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.d8b3b305.css",
-    "main.js": "/Portfolio/static/js/main.27065750.js",
+    "main.js": "/Portfolio/static/js/main.d7e65745.js",
     "static/media/adrien-olichon-RCAhiGJsUUE-unsplash.jpg": "/Portfolio/static/media/adrien-olichon-RCAhiGJsUUE-unsplash.b89b1d552971531a84d7.jpg",
     "static/media/simone-secci-49uySSA678U-unsplash.jpg": "/Portfolio/static/media/simone-secci-49uySSA678U-unsplash.6e9eda92909281e74d77.jpg",
     "static/media/CV Resume.pdf": "/Portfolio/static/media/CV Resume.11b782075410caad0447.pdf",
     "index.html": "/Portfolio/index.html",
     "main.d8b3b305.css.map": "/Portfolio/static/css/main.d8b3b305.css.map",
-    "main.27065750.js.map": "/Portfolio/static/js/main.27065750.js.map"
+    "main.d7e65745.js.map": "/Portfolio/static/js/main.d7e65745.js.map"
   },
   "entrypoints": [
     "static/css/main.d8b3b305.css",
-    "static/js/main.27065750.js"
+    "static/js/main.d7e65745.js"
   ]
 }
