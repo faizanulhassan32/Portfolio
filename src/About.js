@@ -20,7 +20,7 @@ function About() {
             <div className="about__meta">
               <h1 className="home__text pz__10">
               <br />
-                It's Faizan here, currently a senior student of BSCS in FAST-NUCES.
+                Im currently a senior student of BSCS in FAST-NUCES.
                 I've been pursuing my degree for over 3 years with vast experience 
                 in multiple programming languages including C/C++, Java, Python and 
                 javascript. Aiming towards professional web development, i am trying 
@@ -38,9 +38,6 @@ function About() {
                   <div className="service__meta">
                     <a href= {CV} download>
                       <button className="about btn pointer ">Download CV</button>
-                    </a>
-                    <a href= 'https://danyalfaheem.github.io/'>
-                      <button className="about btn pointer ">Website</button>
                     </a>
                   </div>
                 </div>
